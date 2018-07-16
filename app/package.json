@@ -18,5 +18,8 @@
   "homepage": "https://github.com/kylemorton5770/Jolly-Ball-Electron#readme",
   "devDependencies": {
     "electron": "^2.0.5"
+  },
+  "dependencies": {
+    "electron-squirrel-startup": "^1.0.0"
   }
 }
