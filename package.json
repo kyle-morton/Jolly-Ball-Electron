@@ -1,0 +1,22 @@
+{
+  "name": "jolly-ball-electron",
+  "version": "1.0.0",
+  "description": "simple electron app to display my personal website.",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylemorton5770/Jolly-Ball-Electron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylemorton5770/Jolly-Ball-Electron/issues"
+  },
+  "homepage": "https://github.com/kylemorton5770/Jolly-Ball-Electron#readme",
+  "devDependencies": {
+    "electron": "^2.0.5"
+  }
+}
